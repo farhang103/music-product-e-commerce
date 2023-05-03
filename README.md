@@ -9,6 +9,7 @@
 -   [My process](#my-process)
     -   [Screenshot](#screenshot)
     -   [Built with](#built-with)
+    -   [Demo](#demo)
 -   [Author](#author)
 
 ## Overview
@@ -48,7 +49,7 @@ Users should be able to:
 -   [Next.js](https://nextjs.org/) - React framework
 -   [Styled Components](https://styled-components.com/) - For styles
 
-### Links
+### Demo
 
 - Live Site URL:(https://music-product-e-commerce.vercel.app/)
 
